@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoFocus</string>
+    <string name="focusing">Focusing</string>
+    <string name="locked">Focus Locked</string>
+    <style name="AppTheme" parent="@style/android:Theme.Holo.Light">
+    </style>
+</resources>

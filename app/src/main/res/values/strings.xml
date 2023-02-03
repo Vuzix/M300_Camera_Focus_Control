@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoFocus</string>
+    <string name="focusing">Focusing</string>
+    <string name="locked">Focus Locked</string>
+</resources>

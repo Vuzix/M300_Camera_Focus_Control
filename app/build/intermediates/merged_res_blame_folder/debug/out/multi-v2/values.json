@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\brody_wood\\Documents\\M300 Code Testing\\camera_focus\\camera_focus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\brody_wood\\Documents\\M300 Code Testing\\camera_focus\\camera_focus\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "17,65,112",
+                        "endColumns": "46,45,47",
+                        "endOffsets": "59,106,155"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,102,148",
+                        "endColumns": "46,45,47",
+                        "endOffsets": "97,143,191"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\brody_wood\\Documents\\M300 Code Testing\\camera_focus\\camera_focus\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endLines": "2",
+                        "endColumns": "12",
+                        "endOffsets": "95"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "196",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "273"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+com/vuzix/sample/autofocus/MainActivity.java
+ com.vuzix.sample.autofocus.MainActivity
+ com.vuzix.sample.autofocus.MainActivity$1
+ com.vuzix.sample.autofocus.MainActivity$CameraPreview
+ com.vuzix.sample.autofocus.MainActivity$CameraPreview$AutoFocusAsyncTask
+com/vuzix/sample/autofocus/BuildConfig.java
+ com.vuzix.sample.autofocus.BuildConfig
+com/vuzix/sample/autofocus/RotationListener.java
+ com.vuzix.sample.autofocus.RotationListener
+ com.vuzix.sample.autofocus.RotationListener$1
+ com.vuzix.sample.autofocus.RotationListener$rotationCallbackFn

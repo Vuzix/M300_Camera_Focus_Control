@@ -1,0 +1,7 @@
+#Tue Mar 01 14:43:19 EST 2022
+base.1=C\:\\Users\\brody_wood\\Documents\\M300 Code Testing\\camera_focus\\camera_focus\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
+path.1=15/classes.dex
+base.0=C\:\\Users\\brody_wood\\Documents\\M300 Code Testing\\camera_focus\\camera_focus\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex
